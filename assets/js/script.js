@@ -240,5 +240,5 @@ document.body.addEventListener("mouseover", function () {
 const pdfLink = document.getElementById("pdfLink");
 
 pdfLink.addEventListener("click", function() {
-  window.open("./assets/images/resume1.pdf", "_blank"); // Replace with your PDF path
+  window.open("./assets/images/resume.pdf", "_blank"); // Replace with your PDF path
 });
